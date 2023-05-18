@@ -1,0 +1,63 @@
+.img-bg{
+    background-image: url(images/bg-1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:60px;
+}
+.buy-now-btn{
+    background-color:black;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.card img{
+    height: 300px;
+    width: 300px;
+}
+.card{
+    box-shadow: 5px 5px 20px rgb(226, 224, 224);
+    border-radius: 10px;
+    border: none;
+}
+.container{
+    margin-bottom: 100px;
+}
+.av-heading{
+    text-align: center;
+}
+.gaping{
+    margin-bottom: 80px;
+}
+.gaping button{
+    color: orange;
+    border: none;
+    background-color: #fff;
+}
+section div {
+    height: 150px;
+    width: 150px;
+    box-shadow: 5px 5px 20px rgb(226, 224, 224);
+    border-radius: 10px;
+    border: none;
+}
+
+#first{
+    background-color: #fff;
+    position: relative;
+    left: 180px;
+    top: 65px;
+}
+#second{
+    background-color:#fff;
+}
+#third{
+    background-color:#fff;
+    position: relative;
+    left: 180px;
+    bottom: 65px;
+}
